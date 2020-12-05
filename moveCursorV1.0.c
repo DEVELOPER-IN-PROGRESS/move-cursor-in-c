@@ -1,3 +1,4 @@
+#include<conio.h>
 #include <ncurses.h>
 #include <string.h>
 #include <stdlib.h>
